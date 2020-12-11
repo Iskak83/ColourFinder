@@ -1,5 +1,6 @@
 # Stackathon project at Fullstack Academy
 https://expo.io/@iskak/projects/colour-finder
+
 `git clone`
 `npm install`
 `npm start` <br />
