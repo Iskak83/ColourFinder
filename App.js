@@ -179,7 +179,7 @@ class App extends React.Component {
           
             style={styling.takePicture}
           >
-            <View style={{height: '90%', width: '85%', borderRadius: '50%', backgroundColor: 'white'}} />
+            <View style={{height: '90%', width: '85%', borderRadius: 50, backgroundColor: 'white'}} />
            
           </TouchableOpacity>
         </View>

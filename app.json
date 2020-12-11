@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "server",
-    "slug": "server",
+    "name": "colour-finder",
+    "slug": "colour-finder",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "It is an app to find the name and hex code of color from the picture that was selected from device's local storage or taking a picture using device's camera.",
+    "githubUrl": "https://github.com/Iskak83/ColourFinder.git"
   }
 }
