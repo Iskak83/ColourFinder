@@ -16,3 +16,7 @@ It is an app to identify the name and hex code of colors from the picture that w
 * [REACT NATIVE](https://reactnative.dev/) 
 * [Clarifai API](https://docs.clarifai.com/)
 
+### Authors:
+
+<h6>Iskak Mantyubetov</h6>
+<h6>Johnny Zhu</h6>
