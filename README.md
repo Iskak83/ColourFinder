@@ -13,6 +13,6 @@ https://expo.io/@iskak/projects/colour-finder
 It is an app to identify the name and hex code of colors from the picture that was selected from your device's local storage or taking a picture using device's camera.
 
 **Built with:**
-*[REACT NATIVE](https://reactnative.dev/) 
-*[Clarifai API](https://docs.clarifai.com/)
+* [REACT NATIVE](https://reactnative.dev/) 
+* [Clarifai API](https://docs.clarifai.com/)
 
