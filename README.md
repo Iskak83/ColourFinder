@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://expo.io/@iskak/projects/colour-finder/">
-    <img alt="im" src="ColourFinder.jpg" width="150" />
+    <img alt="im" src="ColourFinder.jpg" width="200" />
   </a>
 </p>
 <h1 align="center">
